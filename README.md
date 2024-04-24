@@ -6,7 +6,9 @@
 
 ---
 
-#### Overview
+#### Waveform
+<img width="815" alt="image" src="https://github.com/Abhirecket/Asymmetric_Generic_FIFO/assets/46784291/0a67495c-3618-4f94-a151-120be6d89eaa">
+<img width="797" alt="image" src="https://github.com/Abhirecket/Asymmetric_Generic_FIFO/assets/46784291/1f81592c-e978-4259-82cc-7f038cb25940">
 
 This Verilog module implements an asymmetric FIFO (First-In-First-Out) memory with variable write and read widths. It is designed to be instantiated in digital designs where the FIFO requires different widths for write and read operations. The FIFO depth and widths can be configured through parameters.
 
